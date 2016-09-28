@@ -1,0 +1,35 @@
+{
+  "name": "thisgirlsaphoney",
+  "version": "0.0.1",
+  "description": "Emily's Development Blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thisgirlsaphony/blog.git"
+  },
+  "author": "Emily Olson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thisgirlsaphony/blog/issues"
+  },
+  "homepage": "https://github.com/thisgirlsaphony/blog#readme",
+  "devDependencies": {
+    "autoprefixer": "^6.4.1",
+    "babel-core": "^6.14.0",
+    "babel-loader": "^6.2.5",
+    "css-loader": "^0.25.0",
+    "eslint": "^3.6.1",
+    "eslint-loader": "^1.5.0",
+    "extract-text-webpack-plugin": "^1.0.1",
+    "file-loader": "^0.9.0",
+    "node-sass": "^3.10.0",
+    "postcss-loader": "^0.13.0",
+    "replace": "^0.3.0",
+    "sass-loader": "^4.0.2",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.13.2"
+  }
+}
